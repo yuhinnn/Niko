@@ -11,6 +11,11 @@
 名前:<BR>
 <INPUT type="text" name="onamae">
 <BR>
+本文:<BR>
+<TEXTAREA name="honbun" cols="30" rows="5"></TEXTAREA>
+<BR>
 <INPUT type="submit" value="送信">
+<a href="index2.php">index2へ</a>
 </body>
 </html>
+

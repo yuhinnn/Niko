@@ -16,6 +16,7 @@
 <BR>
 <INPUT type="submit" value="送信">
 <a href="index2.php">index2へ</a>
+<a href="index3.php">index3へ</a>
 </body>
 </html>
 

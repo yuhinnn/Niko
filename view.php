@@ -36,9 +36,10 @@ print $_POST['onamae']."さんの投稿です";
 print"<BR><BR>";
 print"本文:<BR>";
 print$_POST['honbun'];
-foreach($posts as $post) 
-  echo "<p>".$post['honbun']."<INPUT type='submit' value='削除'>"."</p>"; 
-
+echo $_POST['honbun'];
+  foreach($posts as $post)
+    echo "<br>".$post['honbun']."<br>".
+"<INPUT type='submit' value='削除'>";
 ?>
 
 </body>

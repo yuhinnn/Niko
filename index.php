@@ -15,6 +15,7 @@
 <TEXTAREA name="honbun" cols="30" rows="5"></TEXTAREA>
 <BR>
 <INPUT type="submit" value="送信">
+<INPUT type="submit" value="削除">
 <a href="index2.php">index2へ</a>
 <a href="index3.php">index3へ</a>
 </body>
